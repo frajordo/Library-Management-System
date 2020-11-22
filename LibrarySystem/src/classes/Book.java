@@ -1,3 +1,4 @@
+#Hey there, I think this class violates the Open Closed principle, because if you want to extend its functions you need to modify this class directly. :)
 package classes;
 
 import java.util.*;
